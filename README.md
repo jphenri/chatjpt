@@ -1,16 +1,9 @@
-# JPHENRI.COM
+# chajpt
 
-This repository contains the source code and configuration for the website [JPHENRI.COM](https://jphenri.com). The site was built using [Jekyll](https://jekyllrb.com/), a static site generator.
+This repository contains the source code and configuration for the website [https://chatjpt.ca/](https://chatjpt.ca/). The site was built using [Jekyll](https://jekyllrb.com/), a static site generator.
 
 ## About the Website
 
-JPHENRI.COM is a personal website showcasing my IT projects and professional experience, particularly in the areas of SCCM/Intune tools, patching, deployment, provisioning, and project coordination.
-
-### Key Features
-- **Showcase of Projects**: The site highlights various IT projects I've led, including Assystech SENC (2015-2019) and Pronatureqc.com (2015-2018).
-- **Blog**: A blog section where I discuss technical topics, including how this site was created using Jekyll and GitHub Pages.
-
-## Getting Started
 
 ### Prerequisites
 
