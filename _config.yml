@@ -1,4 +1,4 @@
-title: JPHENRI.COM
+title: CHATJPT.CA
 author:
   name: jphenri
   #email: your-email@domain.com
@@ -56,7 +56,7 @@ minima:
   social_links:
       - { platform: github,         user_url: "https://github.com/jphenri" }
       - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jphenri89/" }
-      - { platform: x,              user_url: "https://x.com/jphenri89" }     
+  #    - { platform: x,              user_url: "https://x.com/jphenri89" }     
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
